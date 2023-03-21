@@ -16,3 +16,7 @@ These are usually done manually, but the script and batch file aim to automate t
 Files in the repository:
 
 The zip file contains the script and the folder directories with the .proj file from which the script can be smoothly run. The script can of course be adapted for different folder directory arrangements. The .bat batch file is also in the zip file, and the R code to call to execute it is found in the script.
+
+----------
+Additional info:
+Samer's tutorial may be of interest to those looking to dive into RSelenium: https://www.youtube.com/watch?v=GnpJujF9dBw. The documentation for RSelenium can be viewed here: https://cran.r-project.org/web/packages/RSelenium/RSelenium.pdf.
