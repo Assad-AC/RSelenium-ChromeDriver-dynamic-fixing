@@ -19,4 +19,4 @@ The zip file contains the script and the folder directories with the .proj file 
 
 ----------
 Additional info:
-Samer's tutorial may be of interest to those looking to dive into RSelenium: https://www.youtube.com/watch?v=GnpJujF9dBw. Much credit goes to him for the prerequsite information to this script. The documentation for RSelenium can be viewed here: https://cran.r-project.org/web/packages/RSelenium/RSelenium.pdf.
+Samer's tutorial may be of interest to those looking to dive into RSelenium: https://www.youtube.com/watch?v=GnpJujF9dBw. Much credit goes to him for the approaches used in this script, including the use of netstat::free_port(). The documentation for RSelenium can be viewed here: https://cran.r-project.org/web/packages/RSelenium/RSelenium.pdf.
