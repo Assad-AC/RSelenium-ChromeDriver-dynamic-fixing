@@ -6,8 +6,6 @@
 library(RSelenium)
 library(netstat)
 library(dplyr)
-library(tidyr)
-library(readxl)
 library(here)
 library(readtext)
 library(stringr)
